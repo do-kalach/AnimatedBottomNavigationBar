@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_one_image">
+        <item>@drawable/android_1dp</item>
+        <item>@drawable/android_2dp</item>
+        <item>@drawable/android_3dp</item>
+    </string-array>
+    <string-array name="list_one_title">
+        <item>sdvdv</item>
+        <item>sdvdv</item>
+        <item>sdvdv</item>
+    </string-array>
+</resources>
